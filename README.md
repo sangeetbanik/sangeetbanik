@@ -1,11 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=037DF9FF&width=435&lines=Hello+there!+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=037DF9FF&width=435&lines=Hello+guys!!+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif?cid=ecf05e47uonf726xtl9gjswd1w9yh19983pm9qomftkzl35h&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <br>
-I'm Sangeet Banik, a National Institute of Technological(NIT), Rourkela graduate
+I'm <b>Sangeet Banik</b>, graduated from <b>National Institute of Technological(NIT), Rourkela </b>
 
 ## 😁 About Me 
 
